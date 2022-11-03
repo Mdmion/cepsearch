@@ -36,4 +36,4 @@ Você também pode ser um colaborador deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.rst](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.rst](https://github.com/Mdmion/cepsearch/blob/add-license-1/LICENSE) para detalhes.
