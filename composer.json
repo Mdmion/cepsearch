@@ -1,0 +1,30 @@
+{
+    "name": "mdmion/cepsearch",
+    "description": "Sistema de busca CEP Simples desenvolvido com PHP e Javascript",
+    "minimum-stability": "stable",
+    "license": "mit",
+    "authors": [{
+        "name": "marcelo.damiao",
+        "email": "mdmion@gmail.com"
+    }],
+    "Config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+
+    },
+    "require": {
+        "coffeecode/router": "*",
+        "coffeecode/datalayer": "*",
+        "league/plates": "3.4.0",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-curl": "*"
+    }
+}
