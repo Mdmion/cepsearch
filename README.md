@@ -3,7 +3,7 @@
 Sistema de busca CEP Simples desenvolvido com PHP e Javascript
 
 
-## 🛠️ Construído com
+## 🛠️ Ferramentas Utilizadas
 
 * [PHP](https://www.php.net/) - Linguagem back-end
 * [Composer](https://getcomposer.org/) - Gerenciador de dependências do PHP
